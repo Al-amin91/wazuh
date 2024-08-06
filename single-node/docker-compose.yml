@@ -2,6 +2,12 @@
 version: '3.7'
 
 services:
+  dvwa:
+    image: vulnerables/web-dvwa
+    ports:
+      - "8080:80"
+    restart: always
+
   wazuh.manager:
     image: wazuh/wazuh-manager:4.8.1
     hostname: wazuh.manager
