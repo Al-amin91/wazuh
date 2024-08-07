@@ -1,4 +1,4 @@
-Setting Up Wazuh and a Vulnerable Application with Docker
+# Setting Up Wazuh and a Vulnerable Application with Docker
 
 This guide will help you set up Docker containers running Wazuh and a vulnerable application (DVWA). You will also learn how to install the Wazuh agent on the vulnerable application container, perform a vulnerability scan, and configure log aggregation to the Wazuh manager.
 
