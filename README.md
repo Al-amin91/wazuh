@@ -47,3 +47,14 @@ Restarted wazuh manager and checked the wazuh dashboard to ensure logs from the 
 
 Conclusion
 Successfully set up Wazuh and a vulnerable application using Docker on local machines, and installed the Wazuh agent on the application container. Additionally, attempted to set up an AWS EC2 machine but had to terminate instances due to cost. Performed a vulnerability scan and configured log aggregation. Used the Wazuh dashboard to monitor and manage security events. Note: files and scripts were committed and pushed to GitHub, with certificates hidden for security purposes, considering the repository is public on GitHub. See attached images for details of the setup.
+
+
+![2Capture](https://github.com/user-attachments/assets/2468afd9-a009-48ae-9d2a-9be394103c5d)
+![Capture](https://github.com/user-attachments/assets/5cb01a53-83c8-4f6f-bfa1-d58c4f078f14)
+![Capture1](https://github.com/user-attachments/assets/3dff31c0-6941-4c43-9847-c69baa8bafe8)
+![Capture3](https://github.com/user-attachments/assets/b99d55f5-c62b-4295-8e33-2d9cee9901a7)
+![Capture4](https://github.com/user-attachments/assets/21f4d309-16fb-4cce-b40e-77c2b7b4b1af)
+<img width="1792" alt="Screenshot 2024-08-08 at 18 33 42" src="https://github.com/user-attachments/assets/701bac5c-256f-4057-a47a-4323a92689cb">
+<img width="1792" alt="Screenshot 2024-08-08 at 18 33 15" src="https://github.com/user-attachments/assets/f39d697f-efef-4fdf-b941-98761c89be71">
+<img width="1792" alt="Screenshot 2024-08-08 at 18 32 53" src="https://github.com/user-attachments/assets/302ff3e9-f0f7-4b63-b812-dd29e762ca52">
+<img width="1792" alt="Screenshot 2024-08-08 at 18 32 41" src="https://github.com/user-attachments/assets/dbb48804-0fcd-4f85-b83b-d78bc6781d4e">
