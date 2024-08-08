@@ -58,4 +58,5 @@ Successfully set up Wazuh and a vulnerable application using Docker on local mac
 <img width="1792" alt="Screenshot 2024-08-08 at 18 32 41" src="https://github.com/user-attachments/assets/9e802a0b-fe3b-4827-a7ba-4f04722b511d">
 <img width="1790" alt="Screenshot 2024-08-08 at 18 32 53" src="https://github.com/user-attachments/assets/fe28bd61-b71f-433c-9546-6396ae725231">
 <img width="1792" alt="Screenshot 2024-08-08 at 18 33 15" src="https://github.com/user-attachments/assets/21484203-49b4-409e-a8ba-e8eabc603a9f">
-<img width="1792" alt="Screenshot 2024-08-08 at 18 33 42" src="https://github.com/user-attachments/assets/701bac5c-256f-4057-a47a-4323a92689cb">
+<img width="1792" alt="Screenshot 2024-08-08 at 18 33 42" src="https://github.com/user-attachments/assets/701bac5c-256f-4057-a47a-4323a92689cb"><img width="1792" alt="Screenshot 2024-08-08 at 21 47 38" src="https://github.com/user-attachments/assets/39206544-9fbf-404f-8329-161128a3c086">
+
