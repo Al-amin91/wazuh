@@ -1,14 +1,15 @@
 # Setting Up Wazuh and a Vulnerable Application with Docker
 
-This guide will help you set up Docker containers running Wazuh and a vulnerable application (DVWA). You will also learn how to install the Wazuh agent on the vulnerable application container, perform a vulnerability scan, and configure log aggregation to the Wazuh manager.
+This guide will help you set up Docker containers running Wazuh and a vulnerable application (DVWA). You will also learn how to install the Wazuh agent on the vulnerable application container, perform a vulnerability scan, and configure log aggregation to the Wazuh manager. All Operations were dealt with within a NAT-isolated network to avoid the vulnerable application exploiting other devices whereby the DVWA was deployed on the agent and monitored by the manager as seen in the images attached.
 
 Note: Wazuh manager: Al-amins-MacBook-Pro and Agent: DESKTOP-36G0OE5 (Home lab)
-      IP: Manager: 192.168.56.1 | Agent: 192.168.32.131
+      IP: Manager: 192.168.56.1 | Agent: 192.168.32.153
 
 # Prerequisites
 Installed Docker and Docker Compose.
 Local network.
 Leveraged on CLI to setup wazuh
+leveraged on wazuh and docker open source documentation to achieve the setup and modifications were done to suit the requirement
 
 # Step 1: Deploying and integrating Wazuh with Docker
 Cloned the Wazuh Docker repository:
