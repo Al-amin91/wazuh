@@ -7,6 +7,7 @@ Note: Wazuh manager: Al-amins-MacBook-Pro and Agent: DESKTOP-36G0OE5 (Home lab)
 
 # Prerequisites
 Installed Docker and Docker Compose.
+Visual Studio, Powershell, and git were leveraged on
 Local network.
 Leveraged on CLI to setup wazuh
 leveraged on wazuh and docker open source documentation to achieve the setup and modifications were done to suit the requirement
